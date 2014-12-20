@@ -1,0 +1,19 @@
+{
+  "name": "monitor.edvinas.co.uk",
+  "version": "0.0.0",
+  "authors": [
+    "Edvinas Jurevicius <ikonitas@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
