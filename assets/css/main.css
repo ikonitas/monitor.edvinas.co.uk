@@ -6,3 +6,16 @@ body {
   background:         linear-gradient(90deg, #DE6262 10%, #FFB88C 90%); /* W3C */
 }
 
+ul img {
+  width: 116px;
+}
+
+ul > li {
+  margin-top: 30px;
+}
+
+h2 {
+  font-size: 22px;
+  color: #fff;
+  margin-top: 10px;
+}
